@@ -1,0 +1,10 @@
+#myCanvas {
+    border: 2px solid darkblue;
+    background-image: url("https://farm8.staticflickr.com/7628/16420731153_4fcc691b16_b.jpg");
+}
+#ballImage{
+    display: none;
+}
+#paddleImage{
+    display: none;
+}
